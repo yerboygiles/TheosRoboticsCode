@@ -21,7 +21,7 @@ import com.qualcomm.robotcore.util.Range;
 \*                                                                                                    */
 
 @TeleOp(name="TeleOp Basic Example", group="Iterative Opmode")
-public class ExampleRobotFixed extends OpMode
+public class ExampleRobot extends OpMode
 {
     // Declare OpMode members.
     private ElapsedTime runtime = new ElapsedTime();
